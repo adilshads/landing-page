@@ -32,6 +32,10 @@ Begining Stages being built from scratch.
 
 # Credits
 
+![London Cityscape](https://www.pexels.com/photo/big-ben-bridge-castle-city-460672/)
+
+Image credit: [Pixabat](https://www.pexels.com/@pixabay/)
+
 # License
 
 

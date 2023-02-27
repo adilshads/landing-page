@@ -12,6 +12,11 @@ body {
 .part1{
     display: flex;
     flex-direction: row;
+    
+  
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
 }
 
 .headerLogo {
@@ -22,4 +27,5 @@ body {
 
 .topLinks {
     margin-left: auto;
+    margin-right: 300px;
 }

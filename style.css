@@ -42,3 +42,9 @@ body {
     flex-direction: column;
     margin-left: 8px;
   }
+
+  .mainText {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+  }

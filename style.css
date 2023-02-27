@@ -3,3 +3,9 @@
     flex-direction: column;
     background-color: #1F2937;
 }
+
+.headerLogo {
+    display: flex;
+    font-size: 24px;
+    color: #F9FAF8;
+}

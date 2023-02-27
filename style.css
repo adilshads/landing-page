@@ -33,7 +33,7 @@ body {
   
   .topLinks a {
     margin-left: 30px;
-    color: #F9FAF8;
+    color: #9b9898;
     text-decoration: none;
   }
 
@@ -47,4 +47,9 @@ body {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+  }
+  
+  .secondaryText {
+    font-size: 18px;
+    color: #9b9898;
   }

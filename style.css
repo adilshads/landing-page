@@ -26,6 +26,12 @@ body {
 }
 
 .topLinks {
-    margin-left: auto;
-    margin-right: 300px;
-}
+    display: flex;
+    align-items: center;
+  }
+  
+  .topLinks a {
+    margin-left: 10px;
+    color: #F9FAF8;
+    text-decoration: none;
+  }

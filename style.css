@@ -9,6 +9,11 @@ body {
     background-color: #1F2937;
 }
 
+.part1{
+    display: flex;
+    flex-direction: row;
+}
+
 .headerLogo {
     display: flex;
     font-size: 24px;

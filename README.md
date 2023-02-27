@@ -8,7 +8,7 @@ Learn to design a webpage using flex
 
 # Build Status
 
-Begining Stages being built from scratch. 
+Working on first section of webpage
 
 # Code Style
 

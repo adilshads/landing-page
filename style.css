@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -87,17 +91,11 @@ img {
   align-items: center;
 }
 
-
 .section2 .part1 {
   display: flex;
   align-items: flex-start;
-}
-
-
-.squareImg{
-  width: 100px;
-  height: 100px;
-  object-fit: cover;
+  justify-content: space-between;
+  width: 100%; 
 }
 
 .caption {
@@ -108,18 +106,30 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  width: 25%;
+  margin-left: 10px;
+  margin-right: 10px;
+  
 }
 
 .section2 .part3 {
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  width: 25%;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .section2 .part4 {
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  width: 25%;
+  margin-left: 10px;
 }
 
 .section2 .part5 {

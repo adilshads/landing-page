@@ -78,3 +78,7 @@ img {
     margin-right: 100px;
     margin-left: 100px;
   }
+
+  .section2 {
+    display: flex;
+  }

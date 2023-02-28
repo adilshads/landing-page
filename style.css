@@ -22,6 +22,12 @@ button {
   border-radius: 8px;
 }
 
+img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 40px;
+}
+
 .section1-img {
   width: 40%;
   height: auto;
@@ -90,6 +96,16 @@ button {
   flex-direction: column;
   background-color: white;
   align-items: center;
+}
+
+.section2 img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.caption {
+  width: 150px;
 }
 
 .section2 .part1 {

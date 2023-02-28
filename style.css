@@ -87,10 +87,12 @@ img {
   align-items: center;
 }
 
+
 .section2 .part1 {
   display: flex;
-  justify-content: space-between;
+  align-items: flex-start;
 }
+
 
 .squareImg{
   width: 100px;

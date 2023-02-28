@@ -93,19 +93,23 @@ img {
   .section2 .part2 {
     display: flex;
     flex-direction: column;
+    align-items: center;
   }
 
   .section2 .part3 {
     display: flex;
     flex-direction: column;
+    align-items: center;
   }
 
   .section2 .part4 {
     display: flex;
     flex-direction: column;
+    align-items: center;
   }
 
   .section2 .part5 {
     display: flex;
     flex-direction: column;
+    align-items: center;
   }

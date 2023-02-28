@@ -83,4 +83,5 @@ img {
     display: flex;
     flex-direction: column;
     background-color: white;
+    align-items: center;
   }

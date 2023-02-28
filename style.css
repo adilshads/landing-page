@@ -85,3 +85,7 @@ img {
     background-color: white;
     align-items: center;
   }
+
+  .section2 .part1 {
+    display: flex;
+  }

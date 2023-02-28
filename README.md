@@ -40,6 +40,10 @@ Image credit: [Pixabay](https://www.pexels.com/@pixabay/)
 
 Image Credit: [Kasper Rasmussen](https://www.pexels.com/@freestockpro/)
 
+![Dendera Temple](https://www.pexels.com/photo/a-tourist-looking-at-pillars-inside-the-dendera-temple-2034684/)
+
+Image Credit: [Yasmine Qasem](https://www.pexels.com/@yasmine-qasem-1054896/)
+
 # License
 
 

@@ -36,6 +36,10 @@ Working on second section of webpage
 
 Image credit: [Pixabay](https://www.pexels.com/@pixabay/)
 
+![City Landscape of Khwaeng Wat Arun, Krung Tep Maha Nakhon, Thailand](https://www.pexels.com/photo/city-landscape-1031659/)
+
+Image Credit: [Kasper Rasmussen](https://www.pexels.com/@freestockpro/)
+
 # License
 
 

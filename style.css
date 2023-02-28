@@ -22,11 +22,12 @@ button {
   border-radius: 8px;
 }
 
-img {
+.section1-img {
   width: 40%;
   height: auto;
   margin-bottom: 40px;
 }
+
 
 .section1 {
   display: flex;

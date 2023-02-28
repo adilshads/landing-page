@@ -44,6 +44,10 @@ Image Credit: [Kasper Rasmussen](https://www.pexels.com/@freestockpro/)
 
 Image Credit: [Yasmine Qasem](https://www.pexels.com/@yasmine-qasem-1054896/)
 
+![Aerial Photography of Florence, Tuscany, Italy](https://www.pexels.com/photo/aerial-photography-of-city-2422461/)
+
+Image Credit: [Josh Hild](https://www.pexels.com/@josh-hild-1270765/)
+
 # License
 
 

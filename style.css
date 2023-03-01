@@ -42,6 +42,16 @@ img {
 
 }
 
+.part {
+  flex-basis: calc(25% - 20px);
+  margin-right: 20px;
+}
+
+.part5 {
+  margin-right: 0;
+}
+
+/*
 .part2 {
   flex-basis: calc(25% - 20px);
   margin-right: 20px;
@@ -60,6 +70,7 @@ img {
 .part5 {
   flex-basis: calc(25% - 20px);
 }
+*/
 
 .part2,
 .part3,

@@ -101,13 +101,13 @@ img {
 }
 
 .section2 img {
-  width: 50px;
-  height: 50px;
+  width: 75px;
+  height: 75px;
   object-fit: cover;
 }
 
 .caption {
-  width: 50px;
+  width: 75px;
 }
 
 .section2 .part1 {
@@ -123,22 +123,30 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center; 
+  margin: 0;
+  padding: 0;
 }
 
 .section2 .part3 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 0;
+  padding: 0;
 }
 
 .section2 .part4 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 0;
+  padding: 0;
 }
 
 .section2 .part5 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 0;
+  padding: 0;
 }

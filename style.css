@@ -5,6 +5,8 @@
 body {
   margin: 0;
   padding: 0;
+
+  background-color: #1E3B64;
 }
 
 button {
@@ -26,6 +28,45 @@ img {
   width: 100%;
   height: auto;
   margin-bottom: 40px;
+}
+
+.part1 {
+  display: flex;
+  flex-basis: 100%;
+  justify-content: space-between;
+  margin-bottom: 50px;
+
+  flex: 0 0 50%;
+  max-width: 50%;
+  margin: 20px;
+
+}
+
+.part2 {
+  flex-basis: calc(25% - 20px);
+  margin-right: 20px;
+}
+
+.part3 {
+  flex-basis: calc(25% - 20px);
+  margin-right: 20px;
+}
+
+.part4 {
+  flex-basis: calc(25% - 20px);
+  margin-right: 20px;
+}
+
+.part5 {
+  flex-basis: calc(25% - 20px);
+}
+
+.part2,
+.part3,
+.part4,
+.part5 {
+  width: 100%;
+  margin-bottom: 20px;
 }
 
 .section1-img {
@@ -96,8 +137,17 @@ img {
   flex-direction: column;
   background-color: white;
   align-items: center;
-  margin: 0;
-  padding: 0;
+
+  padding: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+
+  padding: 50px 100px;
+  box-sizing: border-box;
+
+  width: 100%;
 }
 
 .section2 img {

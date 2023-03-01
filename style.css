@@ -41,11 +41,6 @@ img {
 
 }
 
-.part {
-  flex-basis: calc(25% - 20px);
-  margin-right: 20px;
-}
-
 .part5 {
   margin-right: 0;
 }

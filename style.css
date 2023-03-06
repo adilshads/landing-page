@@ -98,11 +98,11 @@ img {
   text-decoration: none;
 }
 
-.section1 .part2 {
-  display: flex;
-  flex-direction: column;
-  margin-left: 8px;
-}
+  .part2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 8px;
+  }
 
 .mainText {
   font-size: 48px;
@@ -115,58 +115,12 @@ img {
   color: #9b9898;
 }
 
-.section1 .part3 {
-  display: flex;
-  margin-right: 100px;
-  margin-left: 100px;
-  width: 100%;
-}
+  .part3 {
+    display: flex;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
 
-.section2 {
-  display: flex;
-  flex-direction: column;
-  background-color: white;
-  align-items: center;
-
-  padding: 50px;
-  flex-wrap: wrap;
-  justify-content: center;
-  max-width: 1200px;
-  margin: 0 auto;
-
-  padding: 50px 100px;
-  box-sizing: border-box;
-
-  width: 100%;
-}
-
-.section2 img {
-  width: 100px;
-  height: 100px;
-  object-fit: cover;
-}
-
-.caption {
-  width: 100px;
-}
-
-.section2 .part1 {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  width: 100%; 
-  margin: 40px 0;
-  padding: 0;
-  margin: 0;
-}
-
-.section2 .part2,
-.section2 .part3,
-.section2 .part4,
-.section2 .part5 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 0;
-  padding: 0;
-}
+  .section2 {
+    display: flex;
+  }

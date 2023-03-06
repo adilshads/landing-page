@@ -29,6 +29,11 @@ img {
   margin-bottom: 40px;
 }
 
+.part {
+  flex-basis: calc(30% - 20px); 
+  margin-right: 20px;
+}
+
 .part1 {
   display: flex;
   flex-basis: 100%;
@@ -114,6 +119,7 @@ img {
   display: flex;
   margin-right: 100px;
   margin-left: 100px;
+  width: 100%;
 }
 
 .section2 {
@@ -135,13 +141,13 @@ img {
 }
 
 .section2 img {
-  width: 75px;
-  height: 75px;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
 }
 
 .caption {
-  width: 75px;
+  width: 100px;
 }
 
 .section2 .part1 {
@@ -151,6 +157,7 @@ img {
   width: 100%; 
   margin: 40px 0;
   padding: 0;
+  margin: 0;
 }
 
 .section2 .part2,

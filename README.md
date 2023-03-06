@@ -48,10 +48,6 @@ Image Credit: [Yasmine Qasem](https://www.pexels.com/@yasmine-qasem-1054896/)
 
 Image Credit: [Josh Hild](https://www.pexels.com/@josh-hild-1270765/)
 
-![Petronas Tower, Kuala Lumpur Malaysia](https://www.pexels.com/photo/petronas-tower-kuala-lumpur-malaysia-22804/)
-
-Image Credit: [Zukiman Mohamad](https://www.pexels.com/@umaraffan499/)
-
 # License
 
 

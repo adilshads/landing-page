@@ -85,6 +85,14 @@ button {
   width: 100%;
 }
 
+.section2 .part1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
 .section2 .header2 {
   text-align: center;
   margin-top: 80px;

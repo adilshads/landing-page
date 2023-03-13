@@ -48,6 +48,10 @@ Image Credit: [Yasmine Qasem](https://www.pexels.com/@yasmine-qasem-1054896/)
 
 Image Credit: [Josh Hild](https://www.pexels.com/@josh-hild-1270765/)
 
+![Ruins of the Ancient City of Pergamon, Bergama, Izmir, Turkiye](https://www.pexels.com/photo/ruins-of-the-ancient-city-of-pergamon-9888192/)
+
+Image Credit: [Gizem Mat](https://www.pexels.com/@gizem-mat/) 
+
 # License
 
 

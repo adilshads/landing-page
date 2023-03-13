@@ -135,6 +135,10 @@ button {
   display: flex;
   margin-left: 220px;
   margin-right: 200px;
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 36px;
+  color: #1F2937;
 }
 
 .section3 .author {
@@ -142,4 +146,8 @@ button {
   justify-content: end;
   margin-left: 200px;
   margin-right: 220px;
+  font-size: 18px;
+  color:#1F2937;
+  font-style: italic;
+  font-weight: bold;
 }

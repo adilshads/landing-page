@@ -98,6 +98,7 @@ button {
   aspect-ratio: 1/1; /* Set the aspect ratio to 1:1 (square) */
   max-width: 100px; /* Set a maximum width */
   height: auto; /* Allow the height to adjust based on the aspect ratio */
+  border-radius: 10%;
 }
 
 

@@ -59,6 +59,15 @@ button {
   flex-direction: column;
 }
 
+.mainText {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAf8;
+}
 
+.secondaryText {
+  font-size: 18px;
+  color: #E5E7EB;
+}
 
 

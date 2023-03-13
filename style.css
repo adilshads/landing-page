@@ -127,3 +127,7 @@ button {
   color: #9b9b9d;
 }
 
+.section3 {
+  background-color: #E5E7EB;
+  display: flex;
+}

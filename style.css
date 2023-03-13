@@ -129,5 +129,17 @@ button {
 
 .section3 {
   background-color: #E5E7EB;
+}
+
+.section3 .quote {
   display: flex;
+  margin-left: 220px;
+  margin-right: 200px;
+}
+
+.section3 .author {
+  display: flex;
+  justify-content: end;
+  margin-left: 200px;
+  margin-right: 220px;
 }

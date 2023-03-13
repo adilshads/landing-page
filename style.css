@@ -107,8 +107,8 @@ button {
   height: auto;
   border-radius: 10%;
   margin-top: 80px;
+  border: 2px solid #3882F6;
 }
-
 
 .caption {
   width: 100%;

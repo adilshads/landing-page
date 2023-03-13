@@ -72,4 +72,9 @@ button {
   margin-bottom: 10px;
 }
 
+.section1 .part3 img {
+  max-width: 40%;
+  height: auto;
+}
+
 

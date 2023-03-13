@@ -93,15 +93,28 @@ button {
   color: #1F2937;
 }
 
-.square{
-  flex-basis: 20%; /* Set the initial size of the flex item */
-  aspect-ratio: 1/1; /* Set the aspect ratio to 1:1 (square) */
-  max-width: 100px; /* Set a maximum width */
-  height: auto; /* Allow the height to adjust based on the aspect ratio */
+.section2 .part2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.square {
+  flex-basis: 20%; 
+  aspect-ratio: 1/1; 
+  max-width: 100px; 
+  height: auto;
   border-radius: 10%;
+  margin-top: 80px;
 }
 
 
-
-
+.caption {
+  width: 100%;
+  max-width: 100px;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 18px;
+  color: #9b9b9d;
+}
 

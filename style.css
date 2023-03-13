@@ -4,123 +4,22 @@
   padding: 0;
 }
 
-body {
-  background-color: #1E3B64;
-}
+
+
+
+
 
 button {
-  background-color: #3882F6; /* Set background color */
-  border: none; /* Remove borders */
-  color: white; /* Set text color */
-  padding: 8px 8px; /* Add padding */
-  text-align: center; /* Center align text */
-  text-decoration: none; /* Remove underline */
-  display: inline-block; /* Set display to inline block */
-  font-size: 16px; /* Set font size */
-  margin: 4px 2px; /* Add margin */
-  cursor: pointer; /* Change cursor on hover */
+  background-color: #3882F6; 
+  border: none; 
+  color: white; 
+  padding: 8px 8px; 
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block; 
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer; 
   width: 120px;
   border-radius: 8px;
 }
-
-img {
-  width: 100%;
-  height: auto;
-  margin-bottom: 40px;
-}
-
-.part {
-  flex-basis: calc(30% - 20px); 
-  margin-right: 20px;
-}
-
-.part1 {
-  display: flex;
-  flex-basis: 100%;
-  justify-content: space-between;
-  margin-bottom: 50px;
-
-  flex: 0 0 50%;
-  max-width: 50%;
-  margin: 20px;
-
-}
-
-.part5 {
-  margin-right: 0;
-}
-
-.part2,
-.part3,
-.part4,
-.part5 {
-  width: 100%;
-  margin-bottom: 20px;
-}
-
-.section1-img {
-  width: 40%;
-  height: auto;
-  margin-bottom: 40px;
-}
-
-
-.section1 {
-  display: flex;
-  flex-direction: column;
-  background-color: #1F2937;
-}
-
-.section1 .part1{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  padding: 10px;
-  margin-left: 100px;
-}
-
-.headerLogo {
-  display: flex;
-  font-size: 24px;
-  color: #F9FAF8;
-}
-
-.topLinks {
-  display: flex;
-  align-items: center;
-  margin-right: 300px;
-}
-
-.topLinks a {
-  margin-left: 30px;
-  color: #9b9898;
-  text-decoration: none;
-}
-
-  .part2 {
-    display: flex;
-    flex-direction: column;
-    margin-left: 8px;
-  }
-
-.mainText {
-  font-size: 48px;
-  font-weight: bolder;
-  color: #F9FAF8;
-}
-
-.secondaryText {
-  font-size: 18px;
-  color: #9b9898;
-}
-
-  .part3 {
-    display: flex;
-    margin-right: 100px;
-    margin-left: 100px;
-  }
-
-  .section2 {
-    display: flex;
-  }

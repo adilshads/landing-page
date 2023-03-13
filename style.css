@@ -91,6 +91,7 @@ button {
   justify-content: space-between;
   margin-left: 200px;
   margin-right: 200px;
+  padding-bottom: 100px;
 }
 
 .section2 .header2 {
@@ -139,6 +140,7 @@ button {
   font-weight: lighter;
   font-size: 36px;
   color: #1F2937;
+  padding-top: 100px;
 }
 
 .section3 .author {

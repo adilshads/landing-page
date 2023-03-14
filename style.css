@@ -162,12 +162,23 @@ button {
   padding-bottom: 100px;
 }
 
+.section4 .bluebox {
+  background-color: #3882F6;
+  padding: 20px;
+  border: 1px solid black;
+  width: 125%;
+  border-radius: 10px;
+}
+
 .section4 .part1 {
   display: flex;
   flex-direction: column;
   padding-right: 50px;
 }
 
+
+
+/*
 .section4 .callAction {
   font-size: 20px;
   font-weight: bold;
@@ -178,3 +189,4 @@ button {
   color: #E5E7EB;
   font-size: 10px;
 }
+*/

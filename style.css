@@ -163,6 +163,7 @@ button {
 }
 
 .section4 .bluebox {
+  display: flex;
   background-color: #3882F6;
   padding: 20px;
   border: 1px solid black;
@@ -176,9 +177,6 @@ button {
   padding-right: 50px;
 }
 
-
-
-/*
 .section4 .callAction {
   font-size: 20px;
   font-weight: bold;
@@ -187,6 +185,11 @@ button {
 
 .section4 .direction {
   color: #E5E7EB;
-  font-size: 10px;
+  font-size: 15px;
 }
-*/
+
+.section4 button {
+  border: 1px solid white;
+  padding-left: 10px;
+  margin-right: 10px;
+}

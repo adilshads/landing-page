@@ -194,3 +194,14 @@ button {
   padding-left: 10px;
   margin-right: 10px;
 }
+
+.footer {
+  display: flex;
+  background-color: #1f2937;
+  margin: 0;
+  padding: 50px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  color: #E5E7EB;
+}

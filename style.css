@@ -167,3 +167,14 @@ button {
   flex-direction: column;
   padding-right: 50px;
 }
+
+.section4 .callAction {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.section4 .direction {
+  color: #E5E7EB;
+  font-size: 10px;
+}

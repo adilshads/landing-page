@@ -166,7 +166,6 @@ button {
   display: flex;
   background-color: #3882F6;
   padding: 20px;
-  border: 1px solid black;
   width: 125%;
   border-radius: 10px;
 }
